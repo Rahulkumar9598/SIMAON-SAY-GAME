@@ -1,0 +1,35 @@
+/* body{
+  justify-content: center;
+  align-items: center;
+} */
+.containers{
+    justify-items: center;
+}
+.btn{
+    height: 110px;
+    width: 110px;
+    border:10px solid black;
+    border-radius: 20%;
+    margin: 1.2rem;
+}
+.btn-container{
+    display: flex;
+}
+.red{
+ background-color: #d95980;
+}
+.yellow{
+background-color: #f99b45;
+}
+.green{
+background-color: #63aac0;
+}
+.purple{
+background-color: #819ff9;
+}
+.flas{
+    background-color: white;
+}
+.user-flas{
+    background-color: green;
+}
